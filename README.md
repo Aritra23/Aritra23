@@ -2,7 +2,7 @@
 
 
 
-### I am a Doctoral Candidate in the Department of Computer Science at Toronto Metropolitan University. My research is focused on Retrieval-Augmented Generation (RAG) and Question-Answering Systems in NLP and the Information Retrieval domain. 
+### I am a PhD Candidate in the Department of Computer Science at Toronto Metropolitan University. My research interests are in the AI/ML domain, primarily focusing on NLP and Information Retrieval (IR), which includes Retrieval-Augmented Generation (RAG), Question-Answering, and Multimodal Large Language Models (LLMs). You can find my webpage <a href = "https://aritra23.github.io">here</a>.
 
 ![](https://komarev.com/ghpvc/?username=Aritra23&color=blue)
 
