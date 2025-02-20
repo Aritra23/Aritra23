@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Aritra23&color=blue)
 
-<img alt="my stats" align="left" width ="45%" src ="https://github-readme-stats.vercel.app/api?username=Aritra23"/>
+<!--<img alt="my stats" align="left" width ="45%" src ="https://github-readme-stats.vercel.app/api?username=Aritra23"/>-->
 
 <img alt = "top langs" align="left" width ="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aritra23&layout=compact"/>
 
