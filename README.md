@@ -1,4 +1,4 @@
-<p align="center"><a href="https://aritra23.github.io"><img width="80%" alt=" Hello, I'm Aritra, welcome to my profile!" src="./assets/GithubStatHeading.jpg" /></a></p>
+<p align="center"><a href="https://aritra23.github.io"><img width="80%" alt=" Hello, I am Aritra, welcome to my profile!" src="./assets/Github_profile_header_msg.jpg" /></a></p>
 
 
 
