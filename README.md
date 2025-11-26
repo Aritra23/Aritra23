@@ -2,7 +2,7 @@
 
 
 
-### I am a PhD Candidate in the Department of Computer Science at Toronto Metropolitan University. My research interests are in the AI/ML domain, primarily focusing on NLP and Information Retrieval (IR), which includes Retrieval-Augmented Generation (RAG), Question-Answering, and Multimodal Large Language Models (LLMs). You can find my webpage <a href = "https://aritra23.github.io">here</a>.
+### I am a Seasoned Software Engineer with 8+ years of industry experience in software development and the applied AI/ML domain. Well-versed in implementing scalable web applications and API development using Java, Python, Spring Boot, and incorporating Generative AI techniques for production deployment. With an extensive research background in LLMs, Multimodal RAG, Information Retrieval, and NLP, for building real-world applications, I have actively contributed to emerging AI trends, agentic AI workflows, and high-impact AI innovations. You can find my webpage <a href = "https://aritra23.github.io">here</a>.
 
 ![](https://komarev.com/ghpvc/?username=Aritra23&color=blue)
 
