@@ -8,9 +8,9 @@
 
 <!--[![Aritra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aritra23)](https://github.com/Aritra23/github-readme-stats)-->
 
-<img alt="my stats" align="left" width ="45%" src ="https://github-readme-stats.vercel.app/api?username=Aritra23"/>
+<!-- <img alt="my stats" align="left" width ="45%" src ="https://github-readme-stats.vercel.app/api?username=Aritra23"/>
 
-<img alt = "top langs" align="left" width ="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aritra23&layout=compact"/>
+<img alt = "top langs" align="left" width ="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aritra23&layout=compact"/> -->
 
 
 
