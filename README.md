@@ -2,7 +2,7 @@
 
 
 
-### I am a Seasoned Software Engineer with 8+ years of industry experience in software development and the applied AI/ML domain. Well-versed in implementing scalable web applications and API development using Java, Python, Spring Boot, and incorporating Generative AI techniques for production deployment. With an extensive research background in LLMs, Multimodal RAG, Information Retrieval, and NLP, for building real-world applications, I have actively contributed to emerging AI trends, agentic AI workflows, and high-impact AI innovations. You can find my webpage <a href = "https://aritra23.github.io">here</a>.
+### I am a Seasoned AI/ML Engineer with 9+ years of industry experience in software engineering and applied research. With an extensive research background in LLMs, Multimodal RAG, Information Retrieval, and NLP, for building real-world applications, I have actively contributed to emerging AI trends, agentic AI workflows, and high-impact AI innovations. I have mentored junior researchers and led research in multimodal RAG apps in clinical and narrative domains with publications in top-tier journals/conferences such as IEEE, ACM, ECIR, CIKM, and Springer. You can find my webpage <a href = "https://aritra23.github.io">here</a>.
 
 ![](https://komarev.com/ghpvc/?username=Aritra23&color=blue)
 
